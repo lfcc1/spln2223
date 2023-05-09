@@ -1,0 +1,61 @@
+/mnt/c/Users/braza/OneDrive/Ambiente de Trabalho/uni/uni/4º ano/spln/aula7
+5
+
+<article>
+    <title>Media</title>
+    <url>https://www.jn.pt/cultura/media.html</url>
+    <autor>['Global Media Group']</autor>
+    <date>None</date>
+    <text>Primeira página em 60 segundos: Limpeza de terrenos custa mais 20% em ano de risco agravado</text>
+</article>
+    
+
+<article>
+    <title>Vamos dar nome à nova ponte</title>
+    <url>https://www.jn.pt/pais/reportagens/vamos-dar-nome-a-nova-ponte-16099008.html</url>
+    <autor>['Inês Moura Pinto']</autor>
+    <date>2023-04-02 01:05:00+00:00</date>
+    <text>Vamos dar nome à nova ponte</text>
+</article>
+    
+
+<article>
+    <title>Dinheiro barato pode voltar nos próximos anos</title>
+    <url>https://www.jn.pt/economia/dinheiro-barato-pode-voltar-nos-proximos-anos-16157739.html?target=conteudo_fechado</url>
+    <autor>['Pedro Araújo']</autor>
+    <date>2023-04-11 15:12:00+00:00</date>
+    <text>Os recentes aumentos reais das taxas de juro poderão ser apenas temporários. Quando a inflação estiver novamente sob controlo nas "economias avançadas" (Portugal encaixa nesta categoria, bem como os outros países da Zona Euro), os bancos centrais poderão de novo aliviar a política monetária e colocar as taxas de juro de volta aos níveis pré-pandémicos.
+
+O dinheiro barato pode então voltar a ser uma realidade. Quando e em que medida? Tudo dependerá da evolução da dívida e défice públicos e ainda de outras variáveis macroeconómicas, explica o Fundo Monetário Internacional (FMI) no capítulo 2 do "World Economic Outlook", sob o título "A taxa de juro natural: condutores e implicações para as políticas".
+
+Se o crescimento económico for superior à taxa de juro real, os governos poderão suster défices orçamentais primários (sem juros) elevados sem necessariamente comprometer a sustentabilidade da dívida pública. Uma vez que a inflação baixe nos próximos anos, o que pode exigir um período prévio prolongado de taxas de juro elevadas , a implicação parece clara: no longo prazo, as taxas naturais permanecerão baixas (nas economias avançadas) ou diminuirão ainda mais (nos mercados emergentes).</text>
+</article>
+    
+
+<article>
+    <title>Vulcão em erupção na Rússia pode provocar explosões até 15 quilómetros</title>
+    <url>https://www.jn.pt/mundo/videos/vulcao-em-erupcao-na-russia-pode-provocar-explosoes-ate-15-quilometros-16157774.html?autoplay=true</url>
+    <autor>['Global Media Group']</autor>
+    <date>2023-04-11 12:04:00+00:00</date>
+    <text>O vulcão Shiveluch entrou em erupção, esta terça-feira, no extremo oriente da Rússia. De acordo com a Equipa de Resposta a Erupções Vulcânicas de Kamchatka , pode haver explosões de cinzas de até 15 quilómetros de altura.</text>
+</article>
+    
+
+<article>
+    <title>Trabalhadores das IPSS querem ganhar mais do que o salário mínimo</title>
+    <url>https://www.jn.pt/nacional/trabalhadores-das-ipss-querem-ganhar-mais-do-que-o-salario-minimo--16158700.html?target=conteudo_fechado</url>
+    <autor>['Global Media Group']</autor>
+    <date>2023-04-11 15:21:00+00:00</date>
+    <text>Diana Morais Ferreira Hoje às 15:21 Facebook
+
+Twitter
+
+Partilhar
+
+Dezenas de trabalhadores das instituições particulares de solidariedade social (IPSS) juntaram-se, esta manhã em frente à sede da Confederação Nacional das Instituições de Solidariedade (CNIS), no Porto, para reivindicar melhores condições salariais. No entanto, Lino Maia, presidente da CNIS, afirma que o diálogo com o Governo está a ser "muito difícil".
+
+"A proposta que a CNIS apresentou não é suficiente, não faz face àquilo que são as necessidades que os trabalhadores têm e à perda do poder de compra que tiveram durante este ano", sublinhou Ana Rodrigues, representante sindical.
+
+Os trabalhadores das IPSS que se manifestaram na tentativa de obter melhores condições salariais "não aceitam ser trabalhadores do salário mínimo, querem ser valorizados pela importância que têm no setor social", explicou Ana Rodrigues. Acrescenta que a CNIS aumentou os salários em "55 euros mas com base no salário do ano anterior", tendo "metade da tabela ficado absorvida pelo salário mínimo nacional".</text>
+</article>
+    
