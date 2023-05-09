@@ -1,0 +1,1 @@
+pandoc -s -o tp2.pdf tp2.md -V geometry:a4paper,margin=2cm -V numbersections --toc
